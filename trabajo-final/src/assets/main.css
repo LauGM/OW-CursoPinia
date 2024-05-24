@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(71, 71, 71);
+  color: aliceblue;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  background-color: cadetblue;
+  color: black;
+  border: '1px solid black';
+  border-radius: 5px;
+  margin: 5px;
+  padding: 2px;
+}
+
+input {
+  border-radius: 5px;
+}
